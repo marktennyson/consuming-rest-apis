@@ -32,7 +32,7 @@ function App() {
           <span role='img' aria-label='love'>
             💚
           </span>{' '}
-          with by Shedrack Akintayo
+          with by Mark Tennyson
         </div>
       </footer>
     </div>
